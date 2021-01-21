@@ -7,3 +7,7 @@
 ## Credit Card Fraud: 
 #### dataset from Kaggle Credit Card Fraud Detection (https://www.kaggle.com/mlg-ulb/creditcardfraud)
 #### Status: logistic regression done
+
+## Sign Language MNIST:
+#### dataset from Kaggle Sign Language MNIS (https://www.kaggle.com/datamunge/sign-language-mnist)
+#### Status: 92% Accuracy
