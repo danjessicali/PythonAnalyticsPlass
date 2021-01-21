@@ -1,4 +1,4 @@
-# python_analytics_class
+# Python_Analytics_Project
 
 ## House Price:
 #### dataset from Kaggle Hourse_Pricing (https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
